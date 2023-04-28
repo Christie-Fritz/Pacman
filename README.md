@@ -8,3 +8,6 @@ In our Week 7 of Code Development Course,  we learned how to make a Pacman move 
 >>>> Refresh page
 
 Once you have follow to steps, you should see a Pacman moving from one side of the screen to the next. 
+
+# Changes to come
+making more Pacmens and having them move in random directions
